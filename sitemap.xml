@@ -5,41 +5,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://0x54.space/</loc>
-<lastmod>2016-12-07T05:01:18-00:00</lastmod>
+<lastmod>2016-12-30T19:07:09-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://0x54.space/archives.html</loc>
-<lastmod>2016-12-07T05:01:18-00:00</lastmod>
+<lastmod>2016-12-30T19:07:09-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://0x54.space/tags.html</loc>
-<lastmod>2016-12-07T05:01:18-00:00</lastmod>
+<lastmod>2016-12-30T19:07:09-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://0x54.space/categories.html</loc>
-<lastmod>2016-12-07T05:01:18-00:00</lastmod>
+<lastmod>2016-12-30T19:07:09-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://0x54.space/pages/about.html</loc>
-<lastmod>2016-12-07T05:01:18-00:00</lastmod>
+<loc>http://0x54.space/about.html</loc>
+<lastmod>2016-12-30T19:07:09-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://0x54.space/hello_world.html</loc>
+<loc>http://0x54.space/posts/20161202/hello_world.html</loc>
 <lastmod>2016-12-02T23:23:00+01:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
